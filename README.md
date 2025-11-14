@@ -1,5 +1,4 @@
 QUESTIONS: 
-Here’s the full list of programming exercises from all three images, organized by category for easy reference:
 
 ---
 
